@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -15,18 +14,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<iframe src="test_map.html" height="500" width="500"></iframe>
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+<iframe src="test_map.html" height="500" width="500"></iframe>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

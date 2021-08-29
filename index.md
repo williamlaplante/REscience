@@ -1,4 +1,7 @@
+ 
 ## Interactive Map of Montreal
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Click [here](test_map.html) to view the map in full screen.
 
